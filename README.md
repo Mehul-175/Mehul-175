@@ -69,25 +69,52 @@ Node.js | Express | MongoDB | Cloudinary
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">🚀 GitHub Analytics</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mehul-175&show_icons=true&theme=tokyonight"/>
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Mehul-175&theme=dark"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-175&layout=compact&theme=tokyonight"/>
+    <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Mehul-175&type=languages&theme=dark"/>
 </p>
 
 ---
 
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode"/>
+</p>
+
+---
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehul-175&theme=tokyo-night&hide_border=true"/>
+</p>
+
+
+---
+
+
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Mehul-175  
-- LeetCode: https://leetcode.com/u/mehul110359/  
-- Email: mehul110359@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/mehul-prajapati-93073828b
-
+<p align="center">
+  <a href="https://github.com/Mehul-175">
+    <img src="https://img.shields.io/badge/GitHub-Mehul--175-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/mehul110359/">
+    <img src="https://img.shields.io/badge/LeetCode-mehul110359-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:mehul110359@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mehul110359%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mehul-prajapati-93073828b">
+    <img src="https://img.shields.io/badge/LinkedIn-Mehul%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ⭐ Always open to learning, building, and collaborating on interesting backend projects.
